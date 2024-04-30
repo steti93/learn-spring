@@ -1,0 +1,17 @@
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/internal/account/AccountTests.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/TestInfrastructureJndiConfig.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/LoggingBeanPostProcessor.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/internal/StubAccountRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/TestInfrastructureLocalConfig.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/internal/StubRewardRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/ProductionRewardNetworkTests.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/DevRewardNetworkTests.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/RewardNetworkTests.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/TestInfrastructureConfig.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/SimpleJndiHelper.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/internal/account/JdbcAccountRepositoryTests.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/24-test-solution/src/test/java/rewards/StubRewardNetworkTests.java

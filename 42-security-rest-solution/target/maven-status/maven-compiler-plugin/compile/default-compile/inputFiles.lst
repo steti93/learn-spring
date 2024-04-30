@@ -1,0 +1,6 @@
+/Users/stefant/Downloads/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/security/CustomAuthenticationProvider.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/web/AccountController.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/RestWsApplication.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/config/RestSecurityConfig.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/security/CustomUserDetailsService.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/services/AccountService.java

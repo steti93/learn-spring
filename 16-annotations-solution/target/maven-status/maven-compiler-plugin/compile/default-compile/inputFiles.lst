@@ -1,0 +1,15 @@
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/restaurant/JdbcRestaurantRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/RewardNetworkImpl.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/config/RewardsConfig.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/AccountContribution.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/RewardNetwork.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/account/AccountRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/account/Beneficiary.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/account/Account.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/reward/JdbcRewardRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/Dining.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/reward/RewardRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/RewardConfirmation.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/account/JdbcAccountRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/restaurant/RestaurantRepository.java
+/Users/stefant/Downloads/core-spring-labfiles/lab/16-annotations-solution/src/main/java/rewards/internal/restaurant/Restaurant.java
